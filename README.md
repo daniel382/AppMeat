@@ -1,5 +1,12 @@
 # Meat - Angular App Starter
 
+# Description
+This project was developed from the course 
+[Construindo Aplicações Web Com o Novo Angular (4, 5 e 6)](https://www.cod3r.com.br/portal/courses/construindo-aplicacoes-web-com-o-novo-angular-4,-5-e-6-19)
+ of the site [https://www.cod3r.com.br](https://www.cod3r.com.br/portal)
+<br />
+<br />
+
 ## 1. Passos para começar
 
 ### Clonando o Repositório
